@@ -35,7 +35,7 @@ include("koneksi.php");
 					<span class="icon-bar"></span>
 				</button>
 				<a class="navbar-brand visible-xs-block visible-sm-block" href="index.php">Data Karyawan</a>
-				<a class="navbar-brand hidden-xs hidden-sm" href="http://www.hakkoblogs.com">Data Karyawan</a>
+				<a class="navbar-brand hidden-xs hidden-sm" href="index.php">Data Karyawan</a>
 			</div>
 			<div id="navbar" class="navbar-collapse collapse">
 				<ul class="nav navbar-nav">
