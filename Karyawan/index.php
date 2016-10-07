@@ -8,7 +8,7 @@ include("koneksi.php");
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Latihan MySQLi</title>
+	<title>Database Karyawan</title>
 
 	<!-- Bootstrap -->
 	<link href="css/bootstrap.min.css" rel="stylesheet">
@@ -34,7 +34,7 @@ include("koneksi.php");
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<a class="navbar-brand visible-xs-block visible-sm-block" href="http://www.hakkoblogs.com">Data Karyawan</a>
+				<a class="navbar-brand visible-xs-block visible-sm-block" href="index.php">Data Karyawan</a>
 				<a class="navbar-brand hidden-xs hidden-sm" href="http://www.hakkoblogs.com">Data Karyawan</a>
 			</div>
 			<div id="navbar" class="navbar-collapse collapse">
